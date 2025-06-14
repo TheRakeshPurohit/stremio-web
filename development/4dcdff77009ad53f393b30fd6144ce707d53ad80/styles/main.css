@@ -7342,7 +7342,7 @@ html.active-slider-within-NcgYf{cursor:grabbing}html.active-slider-within-NcgYf 
 .side-drawer-r9EuA .info-hhNTg {
   padding: 1rem;
   overflow-y: auto;
-  flex: none;
+  flex: 1;
 }
 .side-drawer-r9EuA .info-hhNTg .side-drawer-meta-preview-pB8v6 .action-buttons-container-XbKVa {
   padding-top: 0;
@@ -7951,7 +7951,7 @@ html:not(.active-slider-within-NcgYf) .player-container-wIELK.overlayHidden-gyjI
 
 @font-face {
   font-family: 'PlusJakartaSans';
-  src: url(../../d75c9b1d99906285899e41d1b051d8184ec505c3/fonts/PlusJakartaSans.ttf) format('truetype');
+  src: url(../../4dcdff77009ad53f393b30fd6144ce707d53ad80/fonts/PlusJakartaSans.ttf) format('truetype');
 }
  {
   /* Copyright (C) 2017-2023 Smart code 203358507 */
