@@ -2269,7 +2269,7 @@
 }
 @media (orientation: landscape) and (max-width: 1000px) {
   .dropdown-MWaxp.open-yuN4f {
-    max-height: calc(100dvh - var(--horizontal-nav-bar-size) - 10rem);
+    max-height: calc(100dvh - var(--horizontal-nav-bar-size) - 12rem);
   }
 }
 
@@ -7356,11 +7356,6 @@ html.active-slider-within-NcgYf{cursor:grabbing}html.active-slider-within-NcgYf 
 .side-drawer-r9EuA .series-content-VkYHB .videos-nRM2D {
   overflow-y: auto;
 }
-@media screen and (max-width: 1300px) {
-  .side-drawer-r9EuA {
-    max-width: 40dvw;
-  }
-}
 @media screen and (max-width: 500px) and (max-height: 1000px) and (orientation: portrait) {
   .side-drawer-r9EuA {
     max-width: 100dvw;
@@ -7951,7 +7946,7 @@ html:not(.active-slider-within-NcgYf) .player-container-wIELK.overlayHidden-gyjI
 
 @font-face {
   font-family: 'PlusJakartaSans';
-  src: url(../../1e710c4d464924d8e5dd4373d4e49bbdc5e91613/fonts/PlusJakartaSans.ttf) format('truetype');
+  src: url(../../29e7522f8273edbbe1d8406a62323c92daf7cf9b/fonts/PlusJakartaSans.ttf) format('truetype');
 }
  {
   /* Copyright (C) 2017-2023 Smart code 203358507 */
