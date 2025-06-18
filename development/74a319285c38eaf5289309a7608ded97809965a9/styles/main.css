@@ -363,6 +363,7 @@
 .checkbox-_AF32 .label-UHMAy .link-ih0xx {
   font-size: 0.9rem;
   color: var(--primary-accent-color);
+  margin-left: 0.5rem;
 }
 .checkbox-_AF32 .label-UHMAy .link-ih0xx:hover {
   text-decoration: underline;
@@ -7626,6 +7627,9 @@ html:not(.active-slider-within-NcgYf) .player-container-wIELK.overlayHidden-gyjI
   color: var(--primary-foreground-color);
   text-align: center;
 }
+.intro-container-tkNS6 .content-container-A1Drn .form-button-vyqqj .uppercase-UbR3f {
+  text-transform: uppercase;
+}
 .intro-container-tkNS6 .content-container-A1Drn .submit-button-x3L8z,
 .intro-container-tkNS6 .content-container-A1Drn .guest-login-button-D8DWZ,
 .intro-container-tkNS6 .content-container-A1Drn .signup-form-button-UGmSk,
@@ -7946,7 +7950,7 @@ html:not(.active-slider-within-NcgYf) .player-container-wIELK.overlayHidden-gyjI
 
 @font-face {
   font-family: 'PlusJakartaSans';
-  src: url(../../29e7522f8273edbbe1d8406a62323c92daf7cf9b/fonts/PlusJakartaSans.ttf) format('truetype');
+  src: url(../../74a319285c38eaf5289309a7608ded97809965a9/fonts/PlusJakartaSans.ttf) format('truetype');
 }
  {
   /* Copyright (C) 2017-2023 Smart code 203358507 */
