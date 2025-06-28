@@ -2072,7 +2072,6 @@
   height: calc(4rem / 2);
   color: var(--primary-foreground-color);
   opacity: 0.7;
-  transition: 0.3s all ease-in-out;
 }
 .ratings-container-eQRLs .icon-container-kow_q .icon-QwGlD:hover {
   opacity: 1;
@@ -8042,7 +8041,7 @@ html:not(.active-slider-within-NcgYf) .player-container-wIELK.overlayHidden-gyjI
 
 @font-face {
   font-family: 'PlusJakartaSans';
-  src: url(../../63aecc67642bce9f6f1b071bc585f49e1ee9dddf/fonts/PlusJakartaSans.ttf) format('truetype');
+  src: url(../../0b16f1c80e3e72bb2af573098e250ad8220cf47d/fonts/PlusJakartaSans.ttf) format('truetype');
 }
  {
   /* Copyright (C) 2017-2023 Smart code 203358507 */
