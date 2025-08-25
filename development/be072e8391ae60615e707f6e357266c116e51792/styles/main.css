@@ -5598,7 +5598,7 @@ html.active-slider-within-NcgYf body {
 }
 
 .search-container-uXEFf {
-  height: 100%;
+  height: calc(100% - var(--safe-area-inset-bottom));
   width: 100%;
   background-color: transparent;
 }
@@ -8043,7 +8043,7 @@ html:not(.active-slider-within-NcgYf) .player-container-wIELK.overlayHidden-gyjI
 
 @font-face {
   font-family: 'PlusJakartaSans';
-  src: url(../../f9b059d9e4c3272fdcb3b3c435fca5d0deb1eb7a/fonts/PlusJakartaSans.ttf) format('truetype');
+  src: url(../../be072e8391ae60615e707f6e357266c116e51792/fonts/PlusJakartaSans.ttf) format('truetype');
 }
  {
   /* Copyright (C) 2017-2023 Smart code 203358507 */
