@@ -1704,6 +1704,13 @@
   .action-button-container-sVyRr .icon-container-rQBA0 {
     width: 2rem;
   }
+  .action-button-container-sVyRr .icon-container-rQBA0 .icon-RouVG {
+    width: 2rem;
+    height: 2rem;
+  }
+  .action-button-container-sVyRr .label-container-xslEF {
+    display: none;
+  }
 }
 
 .tooltip-item-gfYXu {
@@ -8043,7 +8050,7 @@ html:not(.active-slider-within-NcgYf) .player-container-wIELK.overlayHidden-gyjI
 
 @font-face {
   font-family: 'PlusJakartaSans';
-  src: url(../../4a1b0d32871c544012b11f15706e83d59c565a3c/fonts/PlusJakartaSans.ttf) format('truetype');
+  src: url(../../2dcc582cc2b64d1232eb51aea72a1464746cb2ae/fonts/PlusJakartaSans.ttf) format('truetype');
 }
  {
   /* Copyright (C) 2017-2023 Smart code 203358507 */
