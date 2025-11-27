@@ -2763,6 +2763,11 @@ kbd {
   margin-bottom: 0.5rem;
   border-radius: var(--border-radius);
 }
+@supports (scroll-margin: 1.25rem) {
+  .video-container-ezBpK {
+    scroll-margin: 1.25rem;
+  }
+}
 .video-container-ezBpK:hover,
 .video-container-ezBpK:focus,
 .video-container-ezBpK.active {
@@ -2897,6 +2902,17 @@ kbd {
 }
 .video-container-ezBpK .info-container-xyynk .flex-row-container-CAyQu .upcoming-watched-container-msCaq .watched-container-gvzs3 {
   background-color: var(--tertiary-accent-color);
+}
+.video-container-ezBpK.selected-AfK31 {
+  animation: border-nc19J 3s ease-in-out forwards;
+}
+@keyframes border-nc19J {
+  0% {
+    border: 0.15rem solid var(--primary-accent-color);
+  }
+  100% {
+    border: 0.15rem solid transparent;
+  }
 }
 .video-container-ezBpK .menu-container-B6cqK {
   max-width: calc(90% - 1.5rem);
@@ -8215,7 +8231,7 @@ html:not(.active-slider-within-NcgYf) .player-container-wIELK.overlayHidden-gyjI
 
 @font-face {
   font-family: 'PlusJakartaSans';
-  src: url(../../3bb7fc4dcc96c8c7a9ba72146fe1579a3f75190a/fonts/PlusJakartaSans.ttf) format('truetype');
+  src: url(../../0c833330a1838552f192b3f1cd1a3d153db63125/fonts/PlusJakartaSans.ttf) format('truetype');
 }
  {
   /* Copyright (C) 2017-2023 Smart code 203358507 */
