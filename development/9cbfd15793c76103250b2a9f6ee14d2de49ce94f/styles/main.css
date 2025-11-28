@@ -2661,7 +2661,7 @@ kbd {
 .shortcuts-group-LbRfT {
   flex: 1 1 0;
   position: relative;
-  min-width: 30rem;
+  width: 30rem;
   display: flex;
   flex-direction: column;
   gap: 2rem;
@@ -8231,7 +8231,7 @@ html:not(.active-slider-within-NcgYf) .player-container-wIELK.overlayHidden-gyjI
 
 @font-face {
   font-family: 'PlusJakartaSans';
-  src: url(../../17746db4397a68a55b832a7bd71393159b253edd/fonts/PlusJakartaSans.ttf) format('truetype');
+  src: url(../../9cbfd15793c76103250b2a9f6ee14d2de49ce94f/fonts/PlusJakartaSans.ttf) format('truetype');
 }
  {
   /* Copyright (C) 2017-2023 Smart code 203358507 */
