@@ -5251,11 +5251,12 @@ kbd {
   display: flex;
   z-index: 1;
   overflow: visible;
-  margin: 2em 1em 0 1em;
+  margin: 2em;
   gap: 1em;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border-radius: var(--border-radius) var(--border-radius) 0 0;
 }
 .streams-list-container-xYMJo .addons-loading-container-Vkwp3 .addons-loading-zhdQr {
   color: var(--primary-foreground-color);
@@ -5380,6 +5381,13 @@ kbd {
   }
   .streams-list-container-xYMJo .streams-container-bbSc4::-webkit-scrollbar-track {
     background-color: transparent;
+  }
+  .streams-list-container-xYMJo .addons-loading-container-Vkwp3 {
+    position: sticky;
+    bottom: 0;
+    margin: 0;
+    padding: 1em;
+    background-color: var(--primary-background-color);
   }
 }
 
