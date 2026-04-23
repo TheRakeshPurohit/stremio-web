@@ -7118,13 +7118,7 @@ html.active-slider-within-NcgYf{cursor:grabbing}html.active-slider-within-NcgYf 
 .subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .language-option-O1Yr9,
 .subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .language-option-O1Yr9,
 .subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .language-option-O1Yr9,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA {
+.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9 {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -7139,24 +7133,12 @@ html.active-slider-within-NcgYf{cursor:grabbing}html.active-slider-within-NcgYf 
 .subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .language-option-O1Yr9.selected,
 .subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .language-option-O1Yr9.selected,
 .subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9.selected,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA.selected,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA.selected,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA.selected,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA.selected,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA.selected,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA.selected,
 .subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .language-option-O1Yr9:hover,
 .subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .language-option-O1Yr9:hover,
 .subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .language-option-O1Yr9:hover,
 .subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .language-option-O1Yr9:hover,
 .subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .language-option-O1Yr9:hover,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9:hover,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA:hover,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA:hover,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA:hover,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA:hover,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA:hover,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA:hover {
+.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9:hover {
   background-color: var(--overlay-color);
 }
 .subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .language-option-O1Yr9 .language-label-FjjqA,
@@ -7164,65 +7146,10 @@ html.active-slider-within-NcgYf{cursor:grabbing}html.active-slider-within-NcgYf 
 .subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .language-option-O1Yr9 .language-label-FjjqA,
 .subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .language-option-O1Yr9 .language-label-FjjqA,
 .subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .language-option-O1Yr9 .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9 .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA .variant-label-opjnP {
+.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9 .language-label-FjjqA {
   flex: 1;
   font-size: 1.1rem;
   color: var(--primary-foreground-color);
-}
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .language-option-O1Yr9 .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .language-option-O1Yr9 .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .language-option-O1Yr9 .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .language-option-O1Yr9 .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .language-option-O1Yr9 .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9 .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA .language-label-FjjqA,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9 .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .language-option-O1Yr9 .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .language-option-O1Yr9 .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .language-option-O1Yr9 .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .language-option-O1Yr9 .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .language-option-O1Yr9 .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9 .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA .variant-origin-SVnd1 {
   text-wrap: nowrap;
   text-overflow: ellipsis;
 }
@@ -7231,55 +7158,13 @@ html.active-slider-within-NcgYf{cursor:grabbing}html.active-slider-within-NcgYf 
 .subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .language-option-O1Yr9 .icon-I1Ruh,
 .subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .language-option-O1Yr9 .icon-I1Ruh,
 .subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .language-option-O1Yr9 .icon-I1Ruh,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9 .icon-I1Ruh,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA .icon-I1Ruh,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA .icon-I1Ruh,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA .icon-I1Ruh,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA .icon-I1Ruh,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA .icon-I1Ruh,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA .icon-I1Ruh {
+.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .language-option-O1Yr9 .icon-I1Ruh {
   flex: none;
   width: 0.5rem;
   height: 0.5rem;
   border-radius: 100%;
   margin-left: 1rem;
   background-color: var(--secondary-accent-color);
-}
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA {
-  height: 4rem;
-}
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA .info-mxjJh,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA .info-mxjJh,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA .info-mxjJh,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA .info-mxjJh,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA .info-mxjJh,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA .info-mxjJh {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-}
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA .info-mxjJh .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA .info-mxjJh .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA .info-mxjJh .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA .info-mxjJh .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA .info-mxjJh .variant-label-opjnP,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA .info-mxjJh .variant-label-opjnP {
-  line-height: 1.5rem;
-}
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .languages-list-sxIwI .variant-option-t7_LA .info-mxjJh .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .languages-list-sxIwI .variant-option-t7_LA .info-mxjJh .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .languages-list-sxIwI .variant-option-t7_LA .info-mxjJh .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .languages-container-NS7H9 .variants-list-yZo6B .variant-option-t7_LA .info-mxjJh .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .variants-container-XglzH .variants-list-yZo6B .variant-option-t7_LA .info-mxjJh .variant-origin-SVnd1,
-.subtitles-menu-container-PxBRZ .subtitles-settings-container-LhRGS .variants-list-yZo6B .variant-option-t7_LA .info-mxjJh .variant-origin-SVnd1 {
-  font-size: 0.9rem;
-  color: var(--color-placeholder-text);
 }
 .subtitles-menu-container-PxBRZ .languages-container-NS7H9 {
   width: 16rem;
@@ -7347,6 +7232,78 @@ html.active-slider-within-NcgYf{cursor:grabbing}html.active-slider-within-NcgYf 
   font-weight: 500;
   text-align: center;
   color: var(--primary-foreground-color);
+}
+
+.variant-option-RT1Op {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 4rem;
+  padding: 0 1.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: var(--border-radius);
+}
+.variant-option-RT1Op.selected,
+.variant-option-RT1Op:hover {
+  background-color: var(--overlay-color);
+}
+.variant-option-RT1Op .info-B5NXN {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.variant-option-RT1Op .info-B5NXN .variant-label-J6D51 {
+  flex: 1;
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+  color: var(--primary-foreground-color);
+  text-wrap: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.variant-option-RT1Op .info-B5NXN .variant-origin-tr6Os {
+  font-size: 0.9rem;
+  color: var(--color-placeholder-text);
+  text-wrap: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.variant-option-RT1Op .icon-D8Ps2 {
+  flex: none;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 100%;
+  margin-left: 1rem;
+  background-color: var(--secondary-accent-color);
+}
+.context-menu-option-na6Oz {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+  min-width: 16rem;
+  padding: 1.25rem 1.5rem;
+}
+.context-menu-option-na6Oz:hover,
+.context-menu-option-na6Oz:focus {
+  background-color: var(--overlay-color);
+}
+.context-menu-option-na6Oz .menu-icon-kOThr {
+  flex: none;
+  width: 1.4rem;
+  height: 1.4rem;
+  color: var(--color-placeholder);
+}
+.context-menu-option-na6Oz .context-menu-option-label-YJcQv {
+  flex: 1;
+  min-width: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--primary-foreground-color);
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 
 .audio-menu-qB4SQ {
