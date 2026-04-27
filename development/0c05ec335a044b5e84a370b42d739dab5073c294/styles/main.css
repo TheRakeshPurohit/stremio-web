@@ -7486,6 +7486,13 @@ html.active-slider-within-NcgYf{cursor:grabbing}html.active-slider-within-NcgYf 
   transition: transform 0.3s ease-in-out;
   z-index: 1;
 }
+@supports (hanging-punctuation: first) and (-webkit-appearance: none) {
+  .side-drawer-r9EuA.slide-left-enter,
+  .side-drawer-r9EuA.slide-left-active,
+  .side-drawer-r9EuA.slide-left-exit {
+    transition: none;
+  }
+}
 .side-drawer-r9EuA .close-button-ruzkn {
   display: none;
   position: absolute;
