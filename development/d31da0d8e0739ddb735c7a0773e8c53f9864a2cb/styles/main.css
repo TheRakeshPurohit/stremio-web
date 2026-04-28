@@ -5668,7 +5668,7 @@ kbd {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: top left;
+  object-position: right;
   opacity: 0.3;
 }
 .metadetails-container-K_Dqa .nav-bar-MH6Vk {
@@ -5751,6 +5751,9 @@ kbd {
   }
 }
 @media only screen and (max-width: 640px) {
+  .metadetails-container-K_Dqa .background-image-layer-wJa90 .background-image-tSjYu {
+    object-position: center;
+  }
   .metadetails-container-K_Dqa .metadetails-content-Uz5EV {
     display: block;
     overflow-y: auto;
