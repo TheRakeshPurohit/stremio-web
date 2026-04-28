@@ -5757,6 +5757,7 @@ kbd {
   .metadetails-container-K_Dqa .metadetails-content-Uz5EV {
     display: block;
     overflow-y: auto;
+    padding-top: calc(var(--top-overlay-size) + var(--safe-area-inset-top));
   }
   .metadetails-container-K_Dqa .metadetails-content-Uz5EV .spacing-rgIYg {
     display: none;
